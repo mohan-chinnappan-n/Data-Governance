@@ -88,7 +88,7 @@ Process of gathering electronically stored information needed for litigation or 
 3. Obtain Executive Sponsorship
 4. Use inter-disciplinary approach
 5. Define data-stewardship as early as possible
-6. Know about obstacles and workout methods to covercome them
+6. Know about obstacles and workout methods to overcome them
 7. Establish metrics to measure success
 8. Measure and report progress
 9. Provide incentives/awards to encourage participation
