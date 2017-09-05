@@ -1,6 +1,8 @@
 ### Data Governance - Technical View 
 
 
+#### [PDF version](img/data-governance.pdf)
+
 ![dc-1](img/dc-1.png)
 ![dc-2](img/dc-2.png)
 ![dc-3](img/dc-3.png)
