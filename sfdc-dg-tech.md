@@ -19,3 +19,4 @@
 ![dc-16](img/dc-16.png)
 
 
+#### [PDF version](img/data-governance.pdf)
